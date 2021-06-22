@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "temperature_conversion"
-version = "0.1.0"
+version = "1.0.0"
 description = "Paquete de conversión de temperaturas"
 authors = ["Danilo Mendoza <odmendoza@utpl.edu.ec>"]
 keywords = ["temperature conversion", "kelvin", "fahrenheit", "rankine"]
